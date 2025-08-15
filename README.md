@@ -1,3 +1,56 @@
+# Task Manager Fashion Store
+
+A React-based fashion store web app featuring men's and women's collections, banners, and a responsive header.
+
+## Features
+
+- Men's and Women's fashion collections
+- Responsive card layouts
+- Banner section
+- Search and cart in header
+- Modern CSS styling
+
+## Setup
+
+1. **Clone the repository:**
+
+   ```
+   git clone https://github.com/yourusername/task-manager.git
+   cd task-manager
+   ```
+
+2. **Install dependencies:**
+
+   ```
+   npm install
+   ```
+
+3. **Add images:**
+
+   - Place all required images in `src/Images/` (e.g., `GentsBanner.gif`, product images).
+
+4. **Start the development server:**
+   ```
+   npm start
+   ```
+
+## Usage
+
+- Browse men's and women's collections.
+- Use the search bar and cart in the header.
+- Responsive design for desktop and mobile.
+
+## Project Structure
+
+- `src/Shopping/Components/` – React components
+- `src/Shopping/Styles/` – CSS files
+- `src/Fashion.js` – Product data
+- `src/Images/` – Image assets
+
+## License
+
+MIT
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
